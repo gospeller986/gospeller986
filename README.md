@@ -10,7 +10,6 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I’m a **Full Stack Developer from India** passionate about building scalable systems and solving real-world problems.
 
@@ -21,8 +20,6 @@ I’m a **Full Stack Developer from India** passionate about building scalable s
 - 📫 Reach me at **palsatyajit986@gmail.com**
 
 ---
-
-# 🧑‍💻 Developer Profile
 
 ```javascript
 const satyajit = {
